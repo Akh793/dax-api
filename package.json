@@ -1,0 +1,9 @@
+{
+  "name": "dax-api",
+  "version": "1.0.0",
+  "description": "DAX40 M1 data API via Dukascopy — pour n8n Cloud",
+  "private": true,
+  "dependencies": {
+    "dukascopy-node": "^2.7.2"
+  }
+}
