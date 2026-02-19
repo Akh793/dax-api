@@ -4,6 +4,6 @@
   "description": "DAX40 M1 data API via Dukascopy — pour n8n Cloud",
   "private": true,
   "dependencies": {
-    "dukascopy-node": "^2.7.2"
+    "dukascopy-node": "^1.46.3"
   }
 }
